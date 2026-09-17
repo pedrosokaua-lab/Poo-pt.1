@@ -15,7 +15,7 @@ console.log(pessoa);
 
 
   
-//2. Construtor Crie uma classe Produtocom os atributos nome, precoe estoque, inicializados por um construtor. Crie dois produtos diferentes e exiba seus dados.
+//2. Construtor Crie uma classe Produto com os atributos nome, precoe estoque, inicializados por um construtor. Crie dois produtos diferentes e exiba seus dados.
 
 class Produto {
 
