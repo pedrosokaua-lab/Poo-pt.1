@@ -1,4 +1,4 @@
-// 1. Classe e Objeto Crie uma classe Pessoa com os atributos nome e idade. Crie um objeto e exiba seus atributos.
+  // 1. Classe e Objeto Crie uma classe Pessoa com os atributos nome e idade. Crie um objeto e exiba seus atributos.
 class Pessoa{
     nome : string;
     idade : number;
